@@ -1,0 +1,32 @@
+{
+  "name": "erc-token",
+  "version": "1.0.0",
+  "description": "Ethereum based erc token ",
+  "keywords": [
+    "Blockchain",
+    "Ethereum",
+    "Smart Contract",
+    "OpenZeppelin",
+    "Dapp"
+  ],
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebinod7/erc-token.git"
+  },
+  "author": "thebinod7@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebinod7/erc-token/issues"
+  },
+  "homepage": "https://github.com/thebinod7/erc-token#readme",
+  "devDependencies": {
+    "openzeppelin-solidity": "^4.1.0"
+  }
+}
